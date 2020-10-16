@@ -3,6 +3,12 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# PyCharm
+.idea
+
+# logs
+lightning-logs/
+
 # C extensions
 *.so
 
